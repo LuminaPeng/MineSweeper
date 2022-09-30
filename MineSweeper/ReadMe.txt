@@ -1,4 +1,2 @@
-游戏玩法介绍：
-	1、单击鼠标左键，翻开方块
-	2、单击鼠标右键，标记地雷，再次单机右键则取消标记
-	3、同时按下鼠标左右键，翻开周边方块
+left click to open a square
+right click to label the mine, right click again to remove the label

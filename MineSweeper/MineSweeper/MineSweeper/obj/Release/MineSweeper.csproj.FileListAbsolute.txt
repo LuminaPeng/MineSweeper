@@ -1,0 +1,9 @@
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe.config
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\bin\Release\MineSweeper.pdb
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\obj\Release\MineSweeper.MineSweeper.resources
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\obj\Release\MineSweeper.Properties.Resources.resources
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.GenerateResource.cache
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.CoreCompileInputs.cache
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\obj\Release\MineSweeper.exe
+D:\My_Program\C#\MineSweeper\MineSweeper\MineSweeper\obj\Release\MineSweeper.pdb
